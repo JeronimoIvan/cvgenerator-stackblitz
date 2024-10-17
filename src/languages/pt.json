@@ -1,0 +1,24 @@
+{
+  "translation": {
+    "hello": "Olá Mundo",
+
+    "Remove Section": "Remover Secção",
+
+    "undo": "Desfazer",
+    "redo": "Refazer",
+
+    "Custom Section": "Seção Personalizada",
+    "Personal Information": "Informações pessoais",
+    "About me": "Sobre mim",
+    "Languages": "Idiomas",
+    "Experience": "Experiência",
+    "Education": "Educação",
+    "Hobbies": "Interesses",
+
+    "Tell us a little about yourself": "Fale um pouco sobre você",
+
+    "tooltipdrawericon": "Abrir Menu",
+    "tooltiplanguageicon": "Alterar Idioma",
+    "tooltipthemeicon": "Alterar Tema"
+  }
+}
